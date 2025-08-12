@@ -309,8 +309,8 @@ If you encounter issues:
 ### **Author**
 **Ishmum Zaman** - Software Engineer passionate about building scalable systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ishmumzaman)
+
 
 ### **Contributing**
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
