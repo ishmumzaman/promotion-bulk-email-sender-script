@@ -150,7 +150,7 @@ Based on production usage with 4,000+ recipients:
 | Metric | Performance |
 |--------|-------------|
 | **Delivery Success Rate** | 95%+ |
-| **Processing Speed** | 200 emails/hour (optimized for deliverability) |
+| **Processing Speed** | 200 emails/hour (can be increased to howmuch ever desired, but more can get email account banned due to spamming) |
 | **Memory Usage** | <50MB for 10K+ emails |
 | **Error Recovery** | 99% automatic retry success |
 | **Spam Rate** | <2% (with proper domain setup) |
